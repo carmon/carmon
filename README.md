@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Emiliano and I'm a developer living in Buenos Aires, Argentina.
+I'm a fullstack dev and like graphics programming a lot, hope you find something useful :)
+
 <!--
 **carmon/carmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
