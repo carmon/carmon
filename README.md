@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 My name is Emiliano and I'm a developer living in Buenos Aires, Argentina.
-I'm a fullstack dev and like graphics programming a lot, hope you find something useful :)
+I'm a frontend && fullstack dev and like graphics programming a lot.
+
+Currently working on textarea-ui, a little experiment with textareas to build the UI for my new personal page.
+
+![Some boring github stats](https://github-readme-stats.vercel.app/api?username=carmon)
 
 <!--
 **carmon/carmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
