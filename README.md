@@ -8,6 +8,8 @@ Currently working on textarea-ui, a little experiment with textareas to build th
 Some personal shortcuts:
 - [TS boilerplate](https://github.com/carmon/boiler-ts)
 
+Currently working on [rifles](https://github.com/carmon/rifles), a public exploring-roguelike videogame.
+
 <!--
 **carmon/carmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
