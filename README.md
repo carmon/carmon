@@ -9,6 +9,7 @@ Currently working on:
 
 Some personal shortcuts:
 - [TS boilerplate](https://github.com/carmon/boiler-ts)
+- [JS fullstack boilerplate](https://github.com/carmon/boiler-fullstack-js)
 
 <!--
 **carmon/carmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
