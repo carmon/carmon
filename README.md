@@ -8,6 +8,7 @@ I'm a frontend && fullstack dev and like graphics programming a lot.
 - [jmod](https://github.com/carmon/jmod), a JSON -> HTML form library, currently doing it while [streaming](https://www.twitch.tv/carmontv).
 - [textarea-ui](https://github.com/carmon/textarea-ui), a little experiment with textareas to build the UI for my new personal page.
 - [rifles](https://github.com/carmon/rifles), a public exploring-roguelike videogame.
+- [ht-utils](https://github.com/carmon/ht-utils), if you play [Hattrick](https://hattrick.org), you may need this.
 
 #### Personal shortcuts:
 - [TS boilerplate](https://github.com/carmon/boiler-ts)
