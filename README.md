@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Emiliano and I'm a developer living in Buenos Aires, Argentina.
+My name is Emiliano and I'm a developer living in Argentina.
 I'm a frontend && fullstack dev and like graphics programming a lot.
 
 ### Currently working on:
