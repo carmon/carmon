@@ -10,10 +10,6 @@ I'm a frontend && fullstack dev and like graphics programming a lot.
 - [textarea-ui](https://github.com/carmon/textarea-ui), a little experiment with textareas to build the UI for my new personal page.
 - [ht-utils](https://github.com/carmon/ht-utils), if you play [Hattrick](https://hattrick.org), you may need this for looking your next season League.
 
-#### Personal shortcuts:
-- [TS boilerplate](https://github.com/carmon/boiler-ts)
-- [JS fullstack boilerplate](https://github.com/carmon/boiler-fullstack-js)
-
 <!--
 **carmon/carmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
